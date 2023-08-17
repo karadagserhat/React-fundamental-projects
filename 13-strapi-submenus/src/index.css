@@ -469,7 +469,7 @@ Submenu
   }
   .show-submenu {
     visibility: visible;
-    opacity: 1;
+    opacity: 0.9;
     transform: rotateX(0deg) translateX(-50%);
     z-index: 10;
   }
